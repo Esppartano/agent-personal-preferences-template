@@ -1,0 +1,5 @@
+# Segurança: nunca versionar credenciais
+.credentials.json
+oauth_creds.json
+mcp_config.json
+*.bak
