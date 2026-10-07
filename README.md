@@ -1,4 +1,4 @@
-# agent-dotfiles-template
+# agent-personal-preferences-template
 
 Template para guardar num repo Git as suas preferências do **Claude Code** e do **agy (Antigravity CLI)**, sincronizadas entre máquinas.
 
