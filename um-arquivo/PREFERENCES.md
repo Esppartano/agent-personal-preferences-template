@@ -5,8 +5,8 @@
 -->
 
 # Sobre mim
-- <Quem você é: área de estudo ou trabalho.>
-- Prefiro respostas em <idioma>.
+- <*Quem você é: área de estudo ou trabalho.*>
+- Prefiro respostas em <*idioma*>.
 - <Qualquer coisa que mude a forma como você prefere receber informação.>
 
 # Formato das respostas
